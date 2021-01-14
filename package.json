@@ -1,0 +1,11 @@
+{
+  "name": "myShopPro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Argice/first_pro.git",
+  "author": "Argice <736543458@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "animate": "^1.0.0"
+  }
+}
